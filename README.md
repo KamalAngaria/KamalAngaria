@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi 👋 I'm Kamal Angaria
 
-<!--
-**KamalAngaria/KamalAngaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+- 🌱 Currently Learning MERN Stack
+- 💻 Building Real Projects
+- 📚 Improving JavaScript Skills
+- 🎯 Future Full Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+HTML  
+CSS  
+JavaScript  
+Git  
+GitHub
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KamalAngaria&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KamalAngaria&layout=compact)
+
+## 🔥 Current Focus
+
+- JavaScript
+- React
+- Node.js
+- MongoDB
